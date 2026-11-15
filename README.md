@@ -14,19 +14,18 @@ Built using HTML5, CSS3 and vanilla JavaScript, this project focuses on clean de
 
 The homepage features a welcoming hero section, navigation bar, attractive typography and a coffee-themed design.
 
-![Bean & Bloom Homepage](screenshots/homepage.png)
+![Bean & Bloom Homepage](homepage.png)
 
 ### 2. Menu Section
 
 Displays coffee, cold drinks, bakery products and snacks with product images, category filters and prices.
 
-![Bean & Bloom Menu](screenshots/menu.png)
-
+![Bean & Bloom Menu](menu.png)
 ### 3. Contact & Reservations
 
 Provides café contact information, opening hours, social media links and a contact form.
 
-![Bean & Bloom Contact](screenshots/contact.png)
+![Bean & Bloom Contact](contact.png)
 
 ## Features
 
